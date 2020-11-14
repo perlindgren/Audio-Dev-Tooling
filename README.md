@@ -1,12 +1,18 @@
 # Audio Dev Tooling
 
+---
+
 ## Linux Tooling
+
+---
 
 ### usb related
 
 - lsusb -t
   
   Tree view of 
+
+---
 
 ### Alsa related
 
@@ -20,7 +26,7 @@
 
 - aseqdump -l
   
-  list of alsa ports
+  list of alsa (sequencer) ports
 
 - aseqdump -p 28
 
