@@ -43,3 +43,4 @@
 ## Resources and documentation
 
 - [midi 1.0](https://www.usb.org/sites/default/files/midi10.pdf)
+- [Silab USB AUDIO CLASS TUTORIAL](https://www.silabs.com/documents/public/application-notes/AN295.pdf)
